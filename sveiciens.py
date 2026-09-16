@@ -1,1 +1,1 @@
-print (man)
+print (mkniunbuan)
