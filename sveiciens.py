@@ -1,1 +1,1 @@
-print (mkniunbuan)
+print("mkniunbuan")
